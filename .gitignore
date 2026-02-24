@@ -2,3 +2,4 @@
 Lab2/bin
 Lab3/bin
 *.o
+/sim
