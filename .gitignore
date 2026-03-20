@@ -2,3 +2,4 @@
 *.o
 /sim
 */bin
+/smart_parking
